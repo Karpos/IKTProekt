@@ -1,0 +1,62 @@
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\bin\roslyn\csc.exe
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\bin\roslyn\vbc.exe
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\bin\MojaZgrada.dll.config
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\bin\MojaZgrada.dll
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\bin\MojaZgrada.pdb
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\obj\Release\MojaZgrada.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\obj\Release\MojaZgrada.dll
+C:\Users\Ivan\documents\visual studio 2015\Projects\MojaZgrada\MojaZgrada\obj\Release\MojaZgrada.pdb
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\bin\roslyn\csc.exe
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\bin\roslyn\vbc.exe
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\bin\MojaZgrada.dll.config
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\bin\MojaZgrada.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\bin\MojaZgrada.pdb
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\obj\Release\MojaZgrada.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\obj\Release\MojaZgrada.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0\MojaZgrada\MojaZgrada\obj\Release\MojaZgrada.pdb
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\roslyn\csc.exe
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\roslyn\vbc.exe
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\MojaZgrada.dll.config
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\MojaZgrada.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\MojaZgrada.pdb
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\S22.Imap.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\bin\S22.Imap.xml
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\obj\Release\MojaZgrada.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\obj\Release\MojaZgrada.dll
+C:\Users\Ivan\Desktop\Proekt Menadziranje na IKT\Release 1.0 _ Remote Database Release _sevil\MojaZgrada\MojaZgrada\obj\Release\MojaZgrada.pdb

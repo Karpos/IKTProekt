@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>S22.ImapWithUTF8</id>
+    <version>3.6.1</version>
+    <title>S22.Imap with UTF8</title>
+    <authors>GS</authors>
+    <owners>GS</owners>
+    <projectUrl>https://github.com/kamil4521/S22.Imap</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>S22.Imap fork. Fixed national character encoding.</description>
+    <summary />
+    <tags>S22.Imap imap utf8</tags>
+  </metadata>
+</package>
